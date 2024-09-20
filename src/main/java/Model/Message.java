@@ -1,4 +1,7 @@
 package Model;
+
+//import java.util.List;
+
 /**
  * This is a class that models a Message.
  *
